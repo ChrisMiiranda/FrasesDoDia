@@ -43,6 +43,6 @@ App que mostra em tela frases aleatórias pré definidas.
 
 Se precisar de suporte, entre em contato:
 
-- **Email:** [email](christopher.ramos.miranda@gmail.com)
-- **LinkedIn:** [linkedin]([https://linkedin.com/in/seuusuario](https://www.linkedin.com/in/christopher-ramos-miranda-973366156/))
+- **Email:** [Email](christopher.ramos.miranda@gmail.com)
+- **LinkedIn:** [Linkedin](https://www.linkedin.com/in/christopher-ramos-miranda-973366156/)
 
