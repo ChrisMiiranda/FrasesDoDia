@@ -1,6 +1,6 @@
 # 📱 Frases do dia
 
-App que mostra em tela frases aleatórias pré definidas.
+Aplicativo desenvolvido para teste.
 
 ## 🛠️ Tecnologias Utilizadas
 
